@@ -118,7 +118,7 @@ a.ism-caption:hover {
   text-decoration: underline;
 }
 .table {
-	background-image: url(https://4.bp.blogspot.com/-0JtdK-7y_9g/WukZc2s0rpI/AAAAAAAAA9Y/Wd_KsiVu-ZIJcc-25MQNe4ORWnQOg0IbQCLcBGAs/s1600/marquee-bg.jpg);
+	color: #2A1F00;
 	background-repeat: no-repeat;
 	padding-top: 0px;
 	border: thin dotted #CCC;
@@ -126,7 +126,7 @@ a.ism-caption:hover {
 	height: auto;
 	width: 1000px;
 	font:Verdana, Geneva, sans-serif;
-	color: #F00;
+	color: #FFF;
 	font-size:12px;
 	vertical-align:top;
 }
